@@ -11,8 +11,8 @@ I work with businesses to help them **understand their numbers and make smarter 
 
 ## 🚀 Portfolio Projects (coming soon...)
 - Sales Dashboard
-- HR Analytics
-- Healthcare KPI Tracker
+- Movies Analytics
+- Healthcare Analysis
 
 ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/rajesh-m-92b182341)
