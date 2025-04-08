@@ -18,6 +18,7 @@ I work with businesses to help them **understand their numbers and make smarter 
 - Mobile: 630-253-1081
 - [LinkedIn](https://linkedin.com/in/rajesh-m-92b182341)
 - Email: rajesh.mr1308@gmail.com
+- GitHub profile: https://github.com/Rajesh-DataAnalyst
 - Open to work & collaborations!
 
 
