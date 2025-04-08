@@ -21,6 +21,7 @@ I work with businesses to help them **understand their numbers and make smarter 
 - GitHub profile: https://github.com/Rajesh-DataAnalyst
 - Open to work & collaborations!
 
+⭐ If you found this helpful, please give it a star!
 
 <!---
 Rajesh-DataAnalyst/Rajesh-DataAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
