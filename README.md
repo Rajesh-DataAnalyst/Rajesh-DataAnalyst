@@ -1,0 +1,26 @@
+# 👋 Hi, I'm Rajesh
+
+I'm a **Power BI Developer** who loves turning messy data into clear, impactful dashboards.  
+I work with businesses to help them **understand their numbers and make smarter decisions.**
+
+## 💼 What I Do
+- Design clean, insightful **Power BI dashboards**
+- Build **data models** and write advanced **DAX formulas**
+- Use **Power Query** for data transformation
+- Help clients across domains like **Sales, HR, Finance, and Healthcare**
+
+## 🚀 Portfolio Projects (coming soon...)
+- Sales Dashboard
+- HR Analytics
+- Healthcare KPI Tracker
+
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/rajesh-m-92b182341)
+- Email: rajesh.mr1308@gmail.com
+- Open to work & collaborations!
+
+
+<!---
+Rajesh-DataAnalyst/Rajesh-DataAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
