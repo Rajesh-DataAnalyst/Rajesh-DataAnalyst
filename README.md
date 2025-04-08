@@ -9,9 +9,9 @@ I work with businesses to help them **understand their numbers and make smarter 
 - Use **Power Query** for data transformation
 - Help clients across domains like **Sales, HR, Finance, and Healthcare**
 
-## 🚀 Portfolio Projects (coming soon...)
+## 🚀 Portfolio Projects 
 - Sales Dashboard
-- Movies Analytics
+- Movies Analytics (coming soon...)
 - Healthcare Analysis
 
 ## 📫 Let's Connect
