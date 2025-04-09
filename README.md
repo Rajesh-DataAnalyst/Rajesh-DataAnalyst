@@ -30,7 +30,7 @@ I work with businesses to help them **understand their numbers and make smarter 
 - Designed and developed basic reports and dashboards using Power BI, and Excel.
 - Gained hands-on experience in data visualization and business intelligence reporting.
 
- 🚀 Key Projects
+ ## 🚀 Key Projects
  Drug Research & Clinical Trials Insights
 - Built a clinical trials analytics dashboard to track drug development progress, trial success rates.
 - Enabled data-driven decision-making for R&D teams, accelerating trial efficiency and regulatory compliance.
