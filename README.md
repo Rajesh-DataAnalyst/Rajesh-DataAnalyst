@@ -16,6 +16,15 @@ I work with businesses to help them **understand their numbers and make smarter 
 - Business Intelligence: KPI Dashboards, Financial Reporting, Operational Insights
 - Analytics & Modeling: Time Series, Forecasting, Aggregations, Data Cleaning
 
+ ## 💻 Experience Highlights
+ Dr. Reddy's Laboratories Hyderabad
+ Power BI Developer (2022-Present)
+- Designed and optimized Power BI dashboards for data visualization, enhancing business insights and 
+  decision-making.
+- Ensured data accuracy, integrity, and performance optimization to meet business requirements.
+- Implemented data modeling, and DAX analysis to develop comprehensive reporting solutions.
+
+
 ## 🚀 Portfolio Projects 
 - Sales Dashboard
 - Movies Analytics (coming soon...)
