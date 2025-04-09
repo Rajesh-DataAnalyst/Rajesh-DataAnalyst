@@ -17,14 +17,14 @@ I work with businesses to help them **understand their numbers and make smarter 
 - Analytics & Modeling: Time Series, Forecasting, Aggregations, Data Cleaning
 
  ## 💻 Experience Highlights
- Dr. Reddy's Laboratories Hyderabad
+ Dr. Reddy's Laboratories Hyderabad, 
  Data Analyst - Power BI Developer (2022-Present)
 - Designed and optimized Power BI dashboards for data visualization, enhancing business insights and 
   decision-making.
 - Ensured data accuracy, integrity, and performance optimization to meet business requirements.
 - Implemented data modeling, and DAX analysis to develop comprehensive reporting solutions.
 
- Aurobindo Pharma Limited Hyderabad
+ Aurobindo Pharma Limited Hyderabad, 
  Data Analyst (2021 - 2022)
 - Assisted in collecting, cleansing, and validating data for accurate reporting.
 - Designed and developed basic reports and dashboards using Power BI, and Excel.
