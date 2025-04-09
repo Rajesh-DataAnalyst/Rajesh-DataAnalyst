@@ -18,7 +18,7 @@ I work with businesses to help them **understand their numbers and make smarter 
 
  ## 💻 Experience Highlights
  Dr. Reddy's Laboratories Hyderabad
- Power BI Developer (2022-Present)
+ - Data Analyst - Power BI Developer (2022-Present)
 - Designed and optimized Power BI dashboards for data visualization, enhancing business insights and 
   decision-making.
 - Ensured data accuracy, integrity, and performance optimization to meet business requirements.
