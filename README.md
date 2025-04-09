@@ -10,11 +10,11 @@ I work with businesses to help them **understand their numbers and make smarter 
 - Help clients across domains like **Sales, HR, Finance, and Healthcare**
 
 ## 🛠 Core Skills
-▸ Data Analysis: SQL, DAX, Power Query, Excel
-▸ Data Visualization: Power BI
-▸ Database & ETL Tools: MySQL
-▸ Business Intelligence: KPI Dashboards, Financial Reporting, Operational Insights
-▸ Analytics & Modeling: Time Series, Forecasting, Aggregations, Data Cleaning
+- Data Analysis: SQL, DAX, Power Query, Excel
+- Data Visualization: Power BI
+- Database & ETL Tools: MySQL
+- Business Intelligence: KPI Dashboards, Financial Reporting, Operational Insights
+- Analytics & Modeling: Time Series, Forecasting, Aggregations, Data Cleaning
 
 ## 🚀 Portfolio Projects 
 - Sales Dashboard
