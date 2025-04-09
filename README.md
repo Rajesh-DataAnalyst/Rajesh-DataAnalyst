@@ -29,8 +29,15 @@ I work with businesses to help them **understand their numbers and make smarter 
 - Assisted in collecting, cleansing, and validating data for accurate reporting.
 - Designed and developed basic reports and dashboards using Power BI, and Excel.
 - Gained hands-on experience in data visualization and business intelligence reporting.
- 
 
+ 🚀 Key Projects
+ Drug Research & Clinical Trials Insights
+- Built a clinical trials analytics dashboard to track drug development progress, trial success rates.
+- Enabled data-driven decision-making for R&D teams, accelerating trial efficiency and regulatory compliance.
+ 
+ Pharmaceutical Supply Chain Analytics
+- Designed a supply chain monitoring dashboard to analyze inventory levels, supplier performance, and 
+shipment delays.
  
 ## 🚀 Portfolio Projects 
 - Sales Dashboard
@@ -39,9 +46,9 @@ I work with businesses to help them **understand their numbers and make smarter 
 
 ## 📫 Let's Connect
 - Mobile: 630-253-1081
-- [LinkedIn](https://linkedin.com/in/rajesh-m-92b182341)
-- Email: rajesh.mr1308@gmail.com
-- GitHub profile: https://github.com/Rajesh-DataAnalyst
+- [LinkedIn]: (https://linkedin.com/in/rajesh-m-92b182341)
+- Email: [rajesh.mr1308@gmail.com]
+- GitHub profile: [https://github.com/Rajesh-DataAnalyst]
 - Open to work & collaborations!
 
 
