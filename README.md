@@ -49,7 +49,7 @@ shipment delays.
 - LinkedIn: [https://linkedin.com/in/rajesh-m-92b182341]
 - Email: [rajesh.mr1308@gmail.com]
 - GitHub profile: [https://github.com/Rajesh-DataAnalyst]
-- Open to work & collaborations!
+- Open to work 
 
 
 
