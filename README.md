@@ -41,7 +41,7 @@ shipment delays.
  
 ## 🚀 Portfolio Projects 
 - Sales Dashboard
-- Movies Analytics (coming soon...)
+- Box-Office Analytics 
 - Healthcare Analysis
 
 ## 📫 Let's Connect
