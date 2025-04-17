@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rajesh M
+# 👋 Hi, I'm Rajesh 
 
 I'm a **Power BI Developer** who loves turning messy data into clear, impactful dashboards.  
 I work with businesses to help them **understand their numbers and make smarter decisions.**
